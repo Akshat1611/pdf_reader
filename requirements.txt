@@ -1,5 +1,5 @@
 streamlit
 pdfplumber
-transformers
+transformers<5.0.0
 torch
-gtts
+gTTS
